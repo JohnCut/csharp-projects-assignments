@@ -1,0 +1,6 @@
+c:\users\casper\documents\visual studio 2015\Projects\HW1AP15220024\HW1AP15220024\bin\Debug\HW1AP15220024.exe.config
+c:\users\casper\documents\visual studio 2015\Projects\HW1AP15220024\HW1AP15220024\bin\Debug\HW1AP15220024.exe
+c:\users\casper\documents\visual studio 2015\Projects\HW1AP15220024\HW1AP15220024\bin\Debug\HW1AP15220024.pdb
+c:\users\casper\documents\visual studio 2015\Projects\HW1AP15220024\HW1AP15220024\obj\Debug\HW1AP15220024.exe
+c:\users\casper\documents\visual studio 2015\Projects\HW1AP15220024\HW1AP15220024\obj\Debug\HW1AP15220024.pdb
+C:\Users\CASPER\Documents\Visual Studio 2015\Projects\HW1AP15220024\HW1AP15220024\obj\Debug\HW1AP15220024.csprojResolveAssemblyReference.cache

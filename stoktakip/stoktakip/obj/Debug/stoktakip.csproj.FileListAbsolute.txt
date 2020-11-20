@@ -1,0 +1,9 @@
+c:\users\casper\documents\visual studio 2015\Projects\stoktakip\stoktakip\bin\Debug\stoktakip.exe.config
+c:\users\casper\documents\visual studio 2015\Projects\stoktakip\stoktakip\bin\Debug\stoktakip.exe
+c:\users\casper\documents\visual studio 2015\Projects\stoktakip\stoktakip\bin\Debug\stoktakip.pdb
+c:\users\casper\documents\visual studio 2015\Projects\stoktakip\stoktakip\obj\Debug\stoktakip.csprojResolveAssemblyReference.cache
+c:\users\casper\documents\visual studio 2015\Projects\stoktakip\stoktakip\obj\Debug\stoktakip.Form1.resources
+c:\users\casper\documents\visual studio 2015\Projects\stoktakip\stoktakip\obj\Debug\stoktakip.Properties.Resources.resources
+c:\users\casper\documents\visual studio 2015\Projects\stoktakip\stoktakip\obj\Debug\stoktakip.csproj.GenerateResource.Cache
+c:\users\casper\documents\visual studio 2015\Projects\stoktakip\stoktakip\obj\Debug\stoktakip.exe
+c:\users\casper\documents\visual studio 2015\Projects\stoktakip\stoktakip\obj\Debug\stoktakip.pdb

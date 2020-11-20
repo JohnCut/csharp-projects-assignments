@@ -1,0 +1,6 @@
+C:\Users\CASPER\Documents\Visual Studio 2015\Projects\HW2VY15220024\HW2VY15220024\bin\Debug\HW2VY15220024.exe.config
+C:\Users\CASPER\Documents\Visual Studio 2015\Projects\HW2VY15220024\HW2VY15220024\bin\Debug\HW2VY15220024.exe
+C:\Users\CASPER\Documents\Visual Studio 2015\Projects\HW2VY15220024\HW2VY15220024\bin\Debug\HW2VY15220024.pdb
+C:\Users\CASPER\Documents\Visual Studio 2015\Projects\HW2VY15220024\HW2VY15220024\obj\Debug\HW2VY15220024.csprojResolveAssemblyReference.cache
+C:\Users\CASPER\Documents\Visual Studio 2015\Projects\HW2VY15220024\HW2VY15220024\obj\Debug\HW2VY15220024.exe
+C:\Users\CASPER\Documents\Visual Studio 2015\Projects\HW2VY15220024\HW2VY15220024\obj\Debug\HW2VY15220024.pdb

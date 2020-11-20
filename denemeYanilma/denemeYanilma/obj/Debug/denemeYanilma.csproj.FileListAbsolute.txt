@@ -1,0 +1,6 @@
+c:\users\casper\documents\visual studio 2015\Projects\denemeYanilma\denemeYanilma\bin\Debug\denemeYanilma.exe.config
+c:\users\casper\documents\visual studio 2015\Projects\denemeYanilma\denemeYanilma\bin\Debug\denemeYanilma.exe
+c:\users\casper\documents\visual studio 2015\Projects\denemeYanilma\denemeYanilma\bin\Debug\denemeYanilma.pdb
+c:\users\casper\documents\visual studio 2015\Projects\denemeYanilma\denemeYanilma\obj\Debug\denemeYanilma.exe
+c:\users\casper\documents\visual studio 2015\Projects\denemeYanilma\denemeYanilma\obj\Debug\denemeYanilma.pdb
+c:\users\casper\documents\visual studio 2015\Projects\denemeYanilma\denemeYanilma\obj\Debug\denemeYanilma.csprojResolveAssemblyReference.cache

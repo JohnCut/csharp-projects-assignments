@@ -1,0 +1,5 @@
+c:\users\casper\documents\visual studio 2015\Projects\ConsoleApplication18\ConsoleApplication18\bin\Debug\ConsoleApplication18.exe.config
+c:\users\casper\documents\visual studio 2015\Projects\ConsoleApplication18\ConsoleApplication18\bin\Debug\ConsoleApplication18.exe
+c:\users\casper\documents\visual studio 2015\Projects\ConsoleApplication18\ConsoleApplication18\bin\Debug\ConsoleApplication18.pdb
+c:\users\casper\documents\visual studio 2015\Projects\ConsoleApplication18\ConsoleApplication18\obj\Debug\ConsoleApplication18.exe
+c:\users\casper\documents\visual studio 2015\Projects\ConsoleApplication18\ConsoleApplication18\obj\Debug\ConsoleApplication18.pdb
